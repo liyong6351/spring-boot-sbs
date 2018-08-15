@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mutiply_datasource</module>
+        <module>jsp</module>
+        <module>start-way</module>
+        <module>distribute_transaction</module>
+        <module>jvm</module>
     </modules>
 
     <name>springboot-sbs</name>
